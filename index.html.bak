@@ -18,8 +18,7 @@
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>    <![endif]-->
   </head>
   <body data-spy="scroll" data-target=".main-nav">
     <section id="section-banner">
@@ -119,17 +118,19 @@
             <div class="profile-desc wow fadeInRight">
               <h2 class="section-title uppercase">Hello, My Name is iker.</h2>
               <br>
-              I have spent more than 5 years in a multidisciplinary research
-              centre programming for very different objectives, mainly in C++
-              and Python. Thus, I consider myself an experienced computer
-              research scientist with a strong background in mobile robotics,
-              artificial intelligence and autonomous systems. I also have a
-              great interest in exoskeletons and bionic prostheses, although I
-              have not yet taken it up professionally.<br>
-              <br>
-              Generally speaking, I am a responsible and proactive person with
-              excellent team working skills, initiative, and a passion for
-              tackling challenging projects.</div>
+              I have a BSc in Computer Science and a MSc in
+              Computational Engineering and Intelligent Systems, both awarded by
+              the University of the Basque Country in 2016 and 2017,
+              respectively. I am a researcher in Tekniker technological centre
+              since 2016, where I am doing the Ph.D. in robust navigation of
+              autonomous robots using vision techniques. I have participated in
+              several industrial and research projects, both national and
+              international, and I am currently involved in projects that deal
+              with collaborative robotics, autonomous navigation of mobile
+              robots and computer vision. As a part of the thesis, I have
+              collaborated with the Autonomous Intelligent Systems group of the
+              Albert Ludwig University of Freiburg, Germany, as a guest
+              researcher in 3D active mapping and exploration.</div>
           </div>
         </div>
         <!-- row end --> </div>
@@ -159,32 +160,32 @@
             </div>
           </div>
           <div class="col-md-6 col-sm-6 wow fadeInRight">
-            <div class="skill-box wow fadeInDown" data-wow-delay=".2s"> <label>
-                Wireframe</label>
+            <div class="skill-box wow fadeInDown" data-wow-delay=".2s"> <label
+                form="C++">artificial intelligence</label>
               <div class="progress">
                 <div class="progress-bar" role="progress-bar" aria-valuemin="0"
                   aria-valuenow="70" aria-valuemax="100" style="width: 70%;">
                   70% </div>
               </div>
             </div>
-            <div class="skill-box wow fadeInDown" data-wow-delay=".4s"> <label>
-                Photoshop</label>
+            <div class="skill-box wow fadeInDown" data-wow-delay=".4s"> <label>computer
+                vision</label>
               <div class="progress">
                 <div class="progress-bar" role="progress-bar" aria-valuemin="0"
                   aria-valuenow="85" aria-valuemax="100" style="width: 85%;">
                   85% </div>
               </div>
             </div>
-            <div class="skill-box wow fadeInDown" data-wow-delay=".6s"> <label>
-                HTML5 / CSS3</label>
+            <div class="skill-box wow fadeInDown" data-wow-delay=".6s"> <label>Mobile
+                robotics</label>
               <div class="progress">
                 <div class="progress-bar" role="progress-bar" aria-valuemin="0"
                   aria-valuenow="90" aria-valuemax="100" style="width: 90%;">
                   90% </div>
               </div>
             </div>
-            <div class="skill-box wow fadeInDown" data-wow-delay=".8s"> <label>
-                JavaScript </label>
+            <div class="skill-box wow fadeInDown" data-wow-delay=".8s"> <label
+                form="GIT">data analysis</label>
               <div class="progress">
                 <div class="progress-bar" role="progress-bar" aria-valuemin="0"
                   aria-valuenow="65" aria-valuemax="100" style="width: 65%;">
