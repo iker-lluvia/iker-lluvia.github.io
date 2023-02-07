@@ -27,7 +27,7 @@
         <div class="row">
           <div class="banner-content wow fadeInRight">
             <h2 class="title">Iker Lluvia Hermosilla<br>
-              <span>Computer research scientist</span> </h2>
+              <span>Computer research sc</span> </h2>
             <a href="#" class="btn btn-default">Learn More</a> </div>
         </div>
       </div>
@@ -39,7 +39,7 @@
           <div class="navbar-header"> <button class="navbar-toggle collapsed" data-target="#bs-example-navbar-collapse-1"
               data-toggle="collapse"> <span class="sr-only"></span> <span class="icon-bar"></span>
               <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-            <a href="#" class="navbar-brand">I am ~</a> </div>
+            <a href="#" class="navbar-brand">Iker lluvia</a> </div>
           <!-- navbar-header end -->
           <!-- main nav  -->
           <div class="collapse navbar-collapse navigation" id="bs-example-navbar-collapse-1"
