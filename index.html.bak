@@ -3,7 +3,9 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Iam html5 portfolio resume template</title>
+    <title>Iker Lluvia Hermosilla</title>
+    <link rel="icon" href="images/ILH_logo.png" 
+        type = "image/x-icon">
     <!-- Mobile Specific Metas
   ================================================== -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -115,7 +117,7 @@
         <div class="row">
           <div class="col-md-7 col-sm-12 pull-right">
             <div class="profile-desc wow fadeInRight">
-              <h2 class="section-title uppercase">Hello, My Name is iker.</h2>
+              <h2 class="section-title uppercase">Hello!</h2>
               <br>
               I have a BSc in Computer Science and a MSc in Computational
               Engineering and Intelligent Systems, both awarded by the
@@ -140,7 +142,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="heading-title">My skills</h2>
+            <h2 class="heading-title">Skills</h2>
           </div>
           <div class="col-md-6 col-sm-6 wow fadeInLeft">
             <div class="skill-desc">
@@ -278,61 +280,61 @@
               </div>
             </article>
           </div>
-      </div>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 wow fadeInLeft">
-            <div class="resume-inner">
-              <h2 class="heading-title">Education</h2>
-              <p></p>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 wow fadeInLeft">
+              <div class="resume-inner">
+                <h2 class="heading-title">Education</h2>
+                <p></p>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <div class="timeline-centered">
-            <article class="timeline-entry">
-              <div class="timeline-entry-inner">
-                <div class="timeline-icon bg-success"> <i class="entypo-feather"></i>
+          <div class="row">
+            <div class="timeline-centered">
+              <article class="timeline-entry">
+                <div class="timeline-entry-inner">
+                  <div class="timeline-icon bg-success"> <i class="entypo-feather"></i>
+                  </div>
+                  <div class="timeline-label">
+                    <h3 class="resume-title">PhD in Mobile Robotics</h3>
+                    <p>09/2017 – Present <br>
+                      University of the Basque Country UPV/EHU – Tekniker</p>
+                  </div>
                 </div>
-                <div class="timeline-label">
-                  <h3 class="resume-title">PhD in Mobile Robotics</h3>
-                  <p>09/2017 – Present <br>
-                    University of the Basque Country UPV/EHU – Tekniker</p>
+              </article>
+              <article class="timeline-entry">
+                <div class="timeline-entry-inner">
+                  <div class="timeline-icon bg-success"> <i class="entypo-feather"></i>
+                  </div>
+                  <div class="timeline-label">
+                    <h3 class="resume-title">Master in Computational Engineering
+                      and Intelligent Systems</h3>
+                    <p>09/2016 – 07/2017 <br>
+                      University of the Basque Country UPV/EHU</p>
+                  </div>
                 </div>
-              </div>
-            </article>
-            <article class="timeline-entry">
-              <div class="timeline-entry-inner">
-                <div class="timeline-icon bg-success"> <i class="entypo-feather"></i>
+              </article>
+              <article class="timeline-entry">
+                <div class="timeline-entry-inner">
+                  <div class="timeline-icon bg-success"> <i class="entypo-feather"></i>
+                  </div>
+                  <div class="timeline-label">
+                    <h3 class="resume-title">Bachelor of Computer Science</h3>
+                    <p>09/2012 – 09/2016 <br>
+                      University of the Basque Country UPV/EHU</p>
+                  </div>
                 </div>
-                <div class="timeline-label">
-                  <h3 class="resume-title">Master in Computational Engineering
-                    and Intelligent Systems</h3>
-                  <p>09/2016 – 07/2017 <br>
-                    University of the Basque Country UPV/EHU</p>
+              </article>
+              <article class="timeline-entry begin">
+                <div class="timeline-entry-inner">
+                  <div class="timeline-icon" style="-webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg);">
+                    <i class="entypo-flight"></i> + </div>
                 </div>
-              </div>
-            </article>
-            <article class="timeline-entry">
-              <div class="timeline-entry-inner">
-                <div class="timeline-icon bg-success"> <i class="entypo-feather"></i>
-                </div>
-                <div class="timeline-label">
-                  <h3 class="resume-title">Bachelor of Computer Science</h3>
-                  <p>09/2012 – 09/2016 <br>
-                    University of the Basque Country UPV/EHU</p>
-                </div>
-              </div>
-            </article>
-            <article class="timeline-entry begin">
-              <div class="timeline-entry-inner">
-                <div class="timeline-icon" style="-webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg);">
-                  <i class="entypo-flight"></i> + </div>
-              </div>
-            </article>
+              </article>
+            </div>
           </div>
-        </div>
-        <a href="https://drive.google.com/file/d/1ZTt4jDY3sKGxpXgApuUX7rjxXd6pUXzA/view?usp=share_link"
+          <a href="https://drive.google.com/file/d/1ZTt4jDY3sKGxpXgApuUX7rjxXd6pUXzA/view?usp=share_link" target="_blank"
             class="btn btn-default featured">CV</a> </div>
       </div>
     </section>
@@ -489,13 +491,13 @@
             <div class="row">
               <div class="col-md-12 text-center">
                 <ul class="socail-link list-inline">
-                  <li><a href="https://www.linkedin.com/in/iker-lluvia/"> <img
-                        alt="Linkedin" src="images/LI-In-Bug.png" width="19" height="16">
-                    </a></li>
-                  <li><a href="https://scholar.google.com/citations?user=v4XIhN4AAAAJ&amp;hl=en&amp;oi=ao">
+                  <li><a href="https://www.linkedin.com/in/iker-lluvia/" target="_blank">
+                      <img alt="Linkedin" src="images/LI-In-Bug.png"
+                        width="19" height="16"> </a></li>
+                  <li><a href="https://scholar.google.com/citations?user=v4XIhN4AAAAJ&amp;hl=en&amp;oi=ao" target="_blank">
                       <img alt="Google Scholar" src="images/240px-Google_Scholar_logo.svg.png"
                         width="16" height="16"> </a></li>
-                  <li><a href="https://orcid.org/0000-0001-9192-3879"><img alt="ORCID"
+                  <li><a href="https://orcid.org/0000-0001-9192-3879" target="_blank"><img alt="ORCID"
                         src="images/orcid_16x16.png" width="16" height="16"></a><br>
                   </li>
                 </ul>
@@ -530,6 +532,5 @@
     
     </script> </div>
     </section>
-    
   </body>
 </html>
