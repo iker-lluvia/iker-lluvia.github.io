@@ -559,11 +559,12 @@
             <ul class="socail-link list-inline">
               <li><a href="#"><i class="fa fa-twitter"></i></a><br>
               </li>
-              <li><a href="#"><i class="fa fa-facebook"></i></a><br>
+              <li><a href="https://orcid.org/0000-0001-9192-3879"><i class="fa fa-orcid"></i></a><br>
               </li>
-              <li><a href="#"><i class="fa fa-google-plus"></i></a><br>
+              <li><a href="https://scholar.google.com/citations?user=v4XIhN4AAAAJ&amp;hl=en&amp;oi=ao"><i
+                    class="fa fa-google-scholar"></i></a><br>
               </li>
-              <li><a href="#"><i class="fa fa-linkedin"></i></a><br>
+              <li><a href="https://www.linkedin.com/in/iker-lluvia/"><i class="fa fa-linkedin"></i></a><br>
               </li>
             </ul>
             <h4>Copyright © 2015, Template by <a href="http://webthemez.com">WebThemez.com</a></h4>
