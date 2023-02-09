@@ -1,11 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <!-- Google tag (gtag.js) -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-C975S32NC0"></script>
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C975S32NC0');
+</script> <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Iker Lluvia Hermosilla</title>
-    <link rel="icon" href="images/ILH_logo.png" 
-        type = "image/x-icon">
+    <link rel="icon" href="images/ILH_logo.png" type="image/png" sizes="128x128">
     <!-- Mobile Specific Metas
   ================================================== -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -77,7 +84,7 @@
               <div class="service-box">
                 <h3>engineer</h3>
                 <p>Fascinated by the mathematics and power of technology since I
-                  was a child, I became a computer scientist specialized in AI
+                  was a child, I became a computer scientist specialised in AI
                   and robotics. I want to use my knowledge to improve everyone's
                   quality of life.</p>
               </div>
@@ -100,7 +107,7 @@
               <div class="service-box">
                 <h3>Nature lover</h3>
                 <p>Mountains, forests and rivers have been more than friends
-                  throughout my whole life. They give me peace, inspiaration and
+                  throughout my whole life. They give me peace, inspiration and
                   motivation. They teach me to find the balance between
                   development, humanity and sostenibility.</p>
               </div>
@@ -334,8 +341,8 @@
               </article>
             </div>
           </div>
-          <a href="https://drive.google.com/file/d/1ZTt4jDY3sKGxpXgApuUX7rjxXd6pUXzA/view?usp=share_link" target="_blank"
-            class="btn btn-default featured">CV</a> </div>
+          <a href="https://drive.google.com/file/d/1ZTt4jDY3sKGxpXgApuUX7rjxXd6pUXzA/view?usp=share_link"
+            target="_blank" class="btn btn-default featured">CV</a> </div>
       </div>
     </section>
     <!-- Resume end -->
@@ -492,13 +499,13 @@
               <div class="col-md-12 text-center">
                 <ul class="socail-link list-inline">
                   <li><a href="https://www.linkedin.com/in/iker-lluvia/" target="_blank">
-                      <img alt="Linkedin" src="images/LI-In-Bug.png"
-                        width="19" height="16"> </a></li>
-                  <li><a href="https://scholar.google.com/citations?user=v4XIhN4AAAAJ&amp;hl=en&amp;oi=ao" target="_blank">
-                      <img alt="Google Scholar" src="images/240px-Google_Scholar_logo.svg.png"
+                      <img alt="Linkedin" src="images/LI-In-Bug.png" width="19"
+                        height="16"> </a></li>
+                  <li><a href="https://scholar.google.com/citations?user=v4XIhN4AAAAJ&amp;hl=en&amp;oi=ao"
+                      target="_blank"> <img alt="Google Scholar" src="images/240px-Google_Scholar_logo.svg.png"
                         width="16" height="16"> </a></li>
-                  <li><a href="https://orcid.org/0000-0001-9192-3879" target="_blank"><img alt="ORCID"
-                        src="images/orcid_16x16.png" width="16" height="16"></a><br>
+                  <li><a href="https://orcid.org/0000-0001-9192-3879" target="_blank"><img
+                        alt="ORCID" src="images/orcid_16x16.png" width="16" height="16"></a><br>
                   </li>
                 </ul>
                 <h4>Copyright © 2015, Template by <a href="http://webthemez.com">WebThemez.com</a></h4>
@@ -532,5 +539,6 @@
     
     </script> </div>
     </section>
+    
   </body>
 </html>
